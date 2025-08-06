@@ -1,0 +1,17 @@
+# Ignore Laravel folders inside backend
+/backend/vendor/
+/backend/node_modules/
+/backend/storage/*.key
+/backend/.env
+/backend/.env.*
+/backend/bootstrap/cache/*
+/backend/public/storage
+/backend/storage/*.log
+/backend/storage/framework/*
+/backend/storage/logs/*
+/backend/.vscode
+
+# System/IDE files
+.DS_Store
+.idea
+.vscode
